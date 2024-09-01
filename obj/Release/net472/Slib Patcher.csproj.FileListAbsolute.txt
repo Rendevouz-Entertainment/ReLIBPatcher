@@ -1,0 +1,5 @@
+Z:\ksp2\Slib patcher\obj\Release\net472\Slib Patcher.csproj.AssemblyReference.cache
+Z:\ksp2\Slib patcher\obj\Release\net472\Slib Patcher.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ksp2\Slib patcher\obj\Release\net472\Slib Patcher.AssemblyInfoInputs.cache
+Z:\ksp2\Slib patcher\obj\Release\net472\Slib Patcher.AssemblyInfo.cs
+Z:\ksp2\Slib patcher\obj\Release\net472\Slib Patcher.csproj.CoreCompileInputs.cache

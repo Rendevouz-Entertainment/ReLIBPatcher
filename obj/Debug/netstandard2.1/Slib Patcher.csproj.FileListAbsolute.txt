@@ -1,0 +1,111 @@
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.csproj.AssemblyReference.cache
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.AssemblyInfoInputs.cache
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.AssemblyInfo.cs
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.csproj.CoreCompileInputs.cache
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Slib Patcher.deps.json
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Slib Patcher.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Slib Patcher.pdb
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\ShadowUtilityLIB.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\ZstdNet.dll
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.csproj.CopyComplete
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.dll
+Z:\ksp2\Slib patcher\obj\Debug\netstandard2.1\Slib Patcher.pdb
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\AK.Wwise.Unity.API.WwiseTypes.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\AK.Wwise.Unity.API.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\ShapesRuntime.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\AK.Wwise.Unity.MonoBehaviour.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\KSPLogging.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Febucci.TextAnimator.Runtime.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\PriorityQueue.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\DataLink.Shared.Net.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\AK.Wwise.Unity.Timeline.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\DOTween.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\IGTools.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\DOTweenPro.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Castle.Core.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Febucci.Attributes.Runtime.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\System.Configuration.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\System.Security.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\ShadowUtilityLIB.pdb
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Collections.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Addressables.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Timeline.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Postprocessing.Runtime.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Burst.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\nunit.framework.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+Z:\ksp2\Slib patcher\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
