@@ -1,11 +1,11 @@
-﻿using ShadowUtilityLIB;
+﻿using ReLIB;
 using Mono.Cecil;
 
 namespace SlibPatcher;
 
 public static class Patcher
 {
-    private static readonly string BasePath = Path.Combine("BepInEx", "plugins", "ShadowUtilityLIB", "Lib");
+    private static readonly string BasePath = Path.Combine("BepInEx", "plugins", "ReLIB", "Lib");
 
     public static IEnumerable<string> TargetDLLs { get; } = new[]
     {
@@ -23,7 +23,13 @@ public static class Patcher
         "System.Drawing.Common.dll",
         "System.Reflection.Metadata.dll",
         "System.Collections.Immutable.dll",
-        "System.Text.Encodings.Web.dll"
+        "System.Text.Encodings.Web.dll",
+        "Microsoft.CodeAnalysis.CSharp.dll",
+        "Microsoft.CodeAnalysis.dll",
+        "System.Numerics.Vectors.dll",
+        "System.Threading.Tasks.Extensions.dll",
+        "Microsoft.CSharp.dll"
+
     };
 
     public static void Patch(ref AssemblyDefinition assembly)
